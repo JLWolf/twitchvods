@@ -13,15 +13,24 @@ The current domain for this script is set to https://d2vjef5jvl6bfs.cloudfront.n
 if the VOD is not found on that domain then the script will print "VOD not found".
 
 Past domains have been:
+
 https://vod-secure.twitch.tv
+
 https://vod-metro.twitch.tv
+
 https://dqrpb9wgowsf5.cloudfront.net
+
 https://d2e2de1etea730.cloudfront.net
+
 https://ds0h3roq6wcgc.cloudfront.net
+
 https://dgeft87wbj63p.cloudfront.net
+
 https://d3c27h4odz752x.cloudfront.net
+
 https://d2aba1wr3818hz.cloudfront.net
 
-to find future domains:
+To find future domains:
+
 Check the request URL for the channel VOD's thumbnails. This will contain the domain for that channel's .m3u8 files.
 
