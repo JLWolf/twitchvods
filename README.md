@@ -10,7 +10,7 @@ Watch Sub-only VODs, and deleted VODs from Twitch.
 # Notes
 The domains that host these .m3u8 files change periodically. 
 The current domain for this script is set to https://d2vjef5jvl6bfs.cloudfront.net and will not be automatically updated.
-if the VOD is not found on that domain then the script will print "VOD not found".
+If the VOD is not found on that domain then the script will print "VOD not found".
 
 Past domains have been:
 
